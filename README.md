@@ -36,7 +36,7 @@ Native = 2
 
 Here is an example run of posix semaphores in a namespace iterating 100 times with 50 samples:
 
-```sudo ./build/LNDriver/LNDriver 5 1 100 50
+```sudo ./build/LNDriver/LNDriver 5 1 100 50```
 
 
 ### OR
