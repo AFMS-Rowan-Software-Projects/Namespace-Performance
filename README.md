@@ -16,14 +16,22 @@ Then you can run the exe with the following options:
 Here are the numbers cooresponding to the correct build
 
 To run all :          0
+
 Posix semaphores:     5
+
 Posix Message Queues: 6
+
 Posix Shared Memory:  7
+
 SysV semaphores:      9
+
 SysV Message Queues:  10
+
 SysV Shared Memory:   11
 
+
 Namespace = 1
+
 Native = 2
 
 Here is an example run of posix semaphores in a namespace iterating 100 times with 50 samples:
