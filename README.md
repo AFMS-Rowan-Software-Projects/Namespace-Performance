@@ -3,6 +3,12 @@ Test IPC's in linux SysV and POSIX on native and namespace environments
 
 # How to run
 
+## GUI
+
+run ```sudo pyhton3 Linux_IPC_GUI.py```
+
+## C program
+
 First you must build using
 
 ```sudo ./build.script```
