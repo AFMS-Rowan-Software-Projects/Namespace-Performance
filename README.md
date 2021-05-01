@@ -61,3 +61,6 @@ run
 so for example, if you want to run semaphores in a namespace using posix you write
 
 ```sudo ./run_sem_namespace_posix```
+
+
+Written by Vincent Liang, Eric Militello, Declan Riddell, Alex Levinson & Luke Roche
